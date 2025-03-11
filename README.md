@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Prompt engineer**
 
-- 👨‍💻 All of my projects are available at [iammandy.vercel.app](iammandy.vercel.app)
+- 👨‍💻 All of my projects are available at [https://iammandy.vercel.app](https://iammandy.vercel.app)
 
 - 💬 Ask me about **react,nextjs,nestjs,nodejs,expressjs**
 
